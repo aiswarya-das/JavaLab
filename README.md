@@ -1,2 +1,2 @@
 # JavaLab
-Java LAB programs
+Sample Java LAB programs 
